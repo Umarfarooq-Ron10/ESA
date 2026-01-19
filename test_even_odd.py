@@ -1,7 +1,8 @@
 from even_odd import n
 
 def test_n():
-    assert n()==('even','prime')
+    assert n(num)==('even','prime')
+
 
 
 
